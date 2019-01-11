@@ -1,0 +1,20 @@
+{
+  "name": "complete-session",
+  "version": "1.0.0",
+  "description": "api with session include the best practice (tried)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgraymundo/complete-session.git"
+  },
+  "author": "hgraymundo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hgraymundo/complete-session/issues"
+  },
+  "homepage": "https://github.com/hgraymundo/complete-session#readme"
+}
